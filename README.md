@@ -12,6 +12,10 @@
 
 this project uses mysql as database and redis as cache. you can either use docker or provide the credentials in the .env file.
 
+## OpenAPI
+
+the api is documented using OpenAPI v3. you can find the documentation at `/reference`
+
 ## Using Docker
 
 run `docker compose up` to start the containers
